@@ -11,7 +11,7 @@ A Chrome extension that extracts cookies from YouTube Music and specifically the
 ## Installation
 
 ### Method 1: Download Pre-built Release
-1. Go to the [Releases](https://github.com/maxrave-dev/utils/releases) page.
+1. Go to the [Releases](https://github.com/jdros15/SimpMusic-utils/releases) page.
 2. Download the `simpmusic-utils-extension.zip` file.
 3. Extract the zip file to a folder.
 4. Open Chrome and navigate to `chrome://extensions/`.
